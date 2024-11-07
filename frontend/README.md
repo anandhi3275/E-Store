@@ -1,3 +1,24 @@
-# **RGUKT E-Store**
+# Frontend - Rgukt Estore
 
-**RGUKT E-Store** is a **web application** built using the **MERN** Stack (MongoDB, Express, React, Node.js). It is designed to allow passed-out candidates or those wishing to sell their **educational products** (like GATE materials, engineering gadgets, etc.) to junior students. The platform includes both a **user panel** for browsing products and a **admin panel** for managing products.
+The frontend of Rgukt Estore is built using **ReactJS**,**CSS** and some ReactJs libraries. It handles the user interface (UI) and interactions for both regular users and administrators. The frontend is responsible for displaying product listings, managing the cart, handling user authentication, and rendering the admin panel for product management.
+
+## Key Features:
+- **User Interface (UI)**: Designed with a responsive layout that adapts to both desktop and mobile devices.
+- **User Panel**: Allows users to browse products, add them to the cart, and complete purchases.
+- **Admin Panel**: Enables administrators to add, update, or remove products from the platform.
+- **Routing**: Uses React Router to manage navigation between different pages (e.g., home, product details, user profile, and admin dashboard).
+
+## Setup and Installation
+
+To get the frontend up and running locally, follow these steps:
+
+1. Navigate to the frontend directory:
+   ```bash
+   cd frontend
+2.Install the required dependencies:
+    npm install
+3.Start the React development server:
+    npm start
+
+The app will be accessible at http://localhost:3000.
+
