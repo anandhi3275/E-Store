@@ -1,6 +1,8 @@
 # **RGUKT E-Store**
 RGUKT E-Store is a **web application** built using the **MERN** Stack (MongoDB, Express, React, Node.js). It is designed to allow passed-out candidates or those wishing to sell their educational products (like GATE materials, engineering gadgets, etc.) to junior students. The platform includes both a **user panel** for browsing products and a **admin panel** for managing products.
 
+![Home Page](https://github.com/anandhi3275/E-Store/blob/d5c95cd7a7da6394a6dc4bb961e586dd5341cadf/Home.png)
+
 # Project Overview
 The RGUKT E-Store allows users to browse and purchase educational products. The frontend is built with **ReactJs** to provide an interactive and dynamic **user experience**, while the backend is built with **Node.js** and **Express** to handle requests and data management. The data is stored in a **MongoDB database**.
 
