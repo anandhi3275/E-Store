@@ -16,9 +16,13 @@ To get the frontend up and running locally, follow these steps:
    ```bash
    cd frontend
 2.Install the required dependencies:
+   ```bash
     npm install
+```
 3.Start the React development server:
+   ```bash
     npm start
+```
 
 The app will be accessible at http://localhost:3000.
 
