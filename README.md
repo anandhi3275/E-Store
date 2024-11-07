@@ -12,11 +12,11 @@ The RGUKT E-Store allows users to browse and purchase educational products. The 
 
 ### Frontend Features
 - Browse and search for educational products.
-- ![search](https://github.com/anandhi3275/E-Store/blob/5c329f5773d225c3113e891ea250121617740353/search.png)
+  ![search](https://github.com/anandhi3275/E-Store/blob/5c329f5773d225c3113e891ea250121617740353/search.png)
 - Add products to the shopping cart and proceed to checkout.
-- ![product](https://github.com/anandhi3275/E-Store/blob/5c329f5773d225c3113e891ea250121617740353/product.png)
+  ![product](https://github.com/anandhi3275/E-Store/blob/5c329f5773d225c3113e891ea250121617740353/product.png)
 - Admin panel for managing products (add, update, delete).
-- ![admin panel](https://github.com/anandhi3275/E-Store/blob/5c329f5773d225c3113e891ea250121617740353/admin%20panel.png)
+  ![admin panel](https://github.com/anandhi3275/E-Store/blob/5c329f5773d225c3113e891ea250121617740353/admin%20panel.png)
 
 ### Backend Features
 - Handle user authentication and registration.
