@@ -6,12 +6,17 @@ RGUKT E-Store is a **web application** built using the **MERN** Stack (MongoDB, 
 # Project Overview
 The RGUKT E-Store allows users to browse and purchase educational products. The frontend is built with **ReactJs** to provide an interactive and dynamic **user experience**, while the backend is built with **Node.js** and **Express** to handle requests and data management. The data is stored in a **MongoDB database**.
 
+![Store](https://github.com/anandhi3275/E-Store/blob/5c329f5773d225c3113e891ea250121617740353/store.png)
+
 ## Features
 
 ### Frontend Features
 - Browse and search for educational products.
+- ![search](https://github.com/anandhi3275/E-Store/blob/5c329f5773d225c3113e891ea250121617740353/search.png)
 - Add products to the shopping cart and proceed to checkout.
+- ![product](https://github.com/anandhi3275/E-Store/blob/5c329f5773d225c3113e891ea250121617740353/product.png)
 - Admin panel for managing products (add, update, delete).
+- ![admin panel](https://github.com/anandhi3275/E-Store/blob/5c329f5773d225c3113e891ea250121617740353/admin%20panel.png)
 
 ### Backend Features
 - Handle user authentication and registration.
