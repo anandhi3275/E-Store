@@ -72,6 +72,7 @@ Create a .env file in the root directory with the following content:
 ```bash
 MONGO_URI=<your-mongo-uri>
 JWT_SECRET=<your-jwt-secret>
+FRONTEND_URL=<your-frontend-url>
 ```
 Start the development server:
 ```bash
